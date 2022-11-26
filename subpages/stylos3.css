@@ -1,0 +1,18 @@
+body{
+    background-image: url("../subpages/imagenes/wallpaperflare.com_wallpaper\ \(5\).jpg");
+    background-size: cover;
+}   
+
+.game{
+    font-family: game;
+    color: rgb(252, 252, 252);
+    text-align: center;
+    padding-top: 18.5%;
+    font-size: 60px;
+}
+
+@font-face{
+    font-family: game;
+    src: url("../subpages/game.ttf");
+}
+

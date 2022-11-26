@@ -1,0 +1,21 @@
+body{
+    background-image: url("imagenes/674638.jpg");
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+
+.disney{
+    font-family: 'WaltographRegular';
+    font-weight: normal;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    line-height: 480px;
+    font-size: 100px;
+}
+
+.disney:hover{
+    color: rgb(34, 123, 238);
+}
